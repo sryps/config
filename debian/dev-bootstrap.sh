@@ -96,4 +96,4 @@ EOF
 
 # manually pass encrypt key and start consul then...
 systemctl start nomad
-systecmtl enable nomad
+systemctl enable nomad
